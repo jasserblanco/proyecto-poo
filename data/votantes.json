@@ -1,0 +1,44 @@
+[
+  {
+    "cedula": "1010054822",
+    "nombre": "Jasser Blanco",
+    "lugarVotacion": "Institución Educativa Antonio Lennis",
+    "mesa": "04"
+  },
+  {
+    "cedula": "1193087805",
+    "nombre": "CARLOS ANDRES BARRAGAN MONTES",
+    "lugarVotacion": "INSTITUCION EDUCATIVA ANTONIO PRIETO",
+    "mesa": "19"
+  },
+  {
+    "cedula": "1005663868",
+    "nombre": "INGRID PATRICIA CHAMORRO LORA",
+    "lugarVotacion": "I.E. JUANITA GARCIA MANJARRES",
+    "mesa": "7"
+  },
+  {
+    "cedula": "1005662948",
+    "nombre": "OSNAIDER ANDRES ENAMORADO VELASQUEZ",
+    "lugarVotacion": "INSTITUCION EDUCATIVA SIMON ARAUJO",
+    "mesa": "28"
+  },
+  {
+    "cedula": "1033097031",
+    "nombre": "CRISTIAN DAVID ESCOBAR SOLORZANO",
+    "lugarVotacion": "SAN BENITO ABAD - PUESTO CABECERA MUNICIPAL",
+    "mesa": "13"
+  },
+  {
+    "cedula": "1047496916",
+    "nombre": "MIRELLA HERNANDEZ PEÑATE",
+    "lugarVotacion": "IE SAN JOSE C I P",
+    "mesa": "12"
+  },
+  {
+    "cedula": "1050719315",
+    "nombre": "SANTIAGO DAVID MARTÍNEZ CASARES",
+    "lugarVotacion": "MAGANGUE - COLISEO CUBIERTO DE ALTO R.",
+    "mesa": "21"
+  }
+]

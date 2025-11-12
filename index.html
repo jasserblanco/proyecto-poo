@@ -7,17 +7,22 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <h1>Consultar Lugar De Votación</h1>
+    <div class="container">
+      <h1>Consultar Lugar De Votación</h1>
 
-    <form action="">
-      <label for="cedula">No. Identificación:</label>
-      <input
-        type="text"
-        name=""
-        id="cedula"
-        placeholder="Ingresa Tu numero de cedula"
-      />
-      <input type="button" value="Consultar" />
-    </form>
+      <div>
+        <label for="cedula">No. Identificación:</label>
+        <input
+          type="text"
+          name=""
+          id="cedula"
+          placeholder="Ingresa Tu numero de cedula"
+        />
+        <button id="btnConsultar">Consultar</button>
+      </div>
+      <div class="informacion" id="resultado"></div>
+    </div>
+
+    <script type="module" src="./app.js"></script>
   </body>
 </html>
